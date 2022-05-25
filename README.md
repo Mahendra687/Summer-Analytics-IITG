@@ -1,7 +1,7 @@
 Coursework: 
-* [week1]()
-* [week2]()
-* [week3]()
-* [week4]()
-* [week5]()
+* [Week1]()
+* [Week2]()
+* [Week3]()
+* [Week4]()
+* [Week5]()
 * [Project]()
